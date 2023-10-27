@@ -1,0 +1,23 @@
+.zoom {
+    transition: transform .3s;
+}
+
+.zoom:hover {
+    transform: scale(1.1);
+}
+
+.zoomtwo {
+    transition: transform .2s;
+}
+
+.zoomtwo:hover {
+    transform: scale(1.3);
+}
+
+.zoomthree {
+    transition: transform .2s;
+}
+
+.zoomthree:hover {
+    transform: scale(1.1);
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Archivo";
+    src: url("./Fonts/ArchivoNarrow-VariableFont_wght.ttf") ;
+}
+
+a {
+    text-decoration: none;
+}

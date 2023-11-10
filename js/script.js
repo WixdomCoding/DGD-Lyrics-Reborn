@@ -137,3 +137,15 @@ tableGenerator.addRow(
     "./IMG/warmachine.png",
     "War Machine"
 );
+
+tableGenerator.addRow(
+    "./HTML/warmachine.html",
+    "./IMG/warmachine.png",
+    "War Machine"
+);
+
+tableGenerator.addRow(
+    "./HTML/warmachine.html",
+    "./IMG/warmachine.png",
+    "War Machine"
+);

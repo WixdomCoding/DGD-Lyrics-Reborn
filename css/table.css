@@ -1,11 +1,12 @@
-
 table {
     border-spacing: 0;
     display: flex;
-    justify-content: center;
-    width: 100%;
-
+    justify-content: flex-start; /* Updated this line */
+    width: fit-content;
+    margin-left: 6rem;
+    margin-right: 7rem;
 }
+
 
 td div {
     width: fit-content;
